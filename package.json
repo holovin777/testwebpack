@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/holovin777/testwebpack/issues"
   },
-  "homepage": "https://github.com/holovin777/testwebpack#readme"
+  "homepage": "https://github.com/holovin777/testwebpack#readme",
+  "devDependencies": {
+    "webpack": "^5.10.0",
+    "webpack-cli": "^4.2.0"
+  }
 }
